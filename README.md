@@ -25,4 +25,7 @@ Zbiór danych utworzony na podstawie badań NHANES 2005-2006:
 
 Autor: Agnieszka Blok
 
+numpy | matplotlib | tensorflow | keras
+
+
 [Link do Google Colab](https://colab.research.google.com/drive/1iJRfukDjaltod5OOvjnexeFXGtI-sDw8)
